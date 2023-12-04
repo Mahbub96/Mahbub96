@@ -19,7 +19,8 @@ sudo apt-get purge $(dpkg -l | grep '^rc' | awk '{print $2}') -y
 
 source_folder="$HOME/Downloads"
 
-source /usr/bin/start.sh # Adjust the path accordingly
+# source /usr/bin/start.sh # Adjust the path accordingly
+source ./start.sh
 
 organize_and_archive "$source_folder"
 

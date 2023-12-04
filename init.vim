@@ -159,4 +159,6 @@ nnoremap <leader>cc <cmd>NERDCommenterComment<cr>
 
 " Same as cc but forces nesting.
 
+" Enable code formatting with Prettier on save for HTML and CSS files
+autocmd BufWritePre *.html,*.css silent! CocCommand prettier.formatFile
 

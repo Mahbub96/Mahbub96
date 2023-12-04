@@ -2,7 +2,9 @@
 
 organize_and_archive() {
     local source_folder="$1"
-    local archive_folder="/home/dmin/Archive"  # Change this to the folder where you want to archive files
+    # local archive_folder="/home/dmin/Archive"  # Change this to the folder where you want to archive files
+	local archive_folder="$HOME/Archive" # Change this to the folder where you want to archive files
+
 
     # Create the hierarchical folders based on file dates
     for file in "$source_folder"/*; do
