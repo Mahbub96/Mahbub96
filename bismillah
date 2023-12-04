@@ -1,0 +1,38 @@
+#!/bin/bash
+
+
+sudo apt update -y
+
+sudo apt upgrade -y
+
+sudo apt-get clean -y
+
+sudo apt-get autoremove -y
+
+rm -r ~/.cache/thumbnails/*
+
+# sudo rm -rf /tmp/*
+
+sudo apt clean
+
+sudo apt-get purge $(dpkg -l | grep '^rc' | awk '{print $2}') -y
+
+source_folder="$HOME/Downloads"
+
+source /usr/bin/start.sh # Adjust the path accordingly
+
+organize_and_archive "$source_folder"
+
+clear
+
+# Display a styled message after all commands are executed
+echo -e "\033[1;32mAll tasks completed. Have a good day!\033[0m"
+
+source_folder="$HOME/Pictures"
+organize_and_archive "$source_folder"
+
+
+# Call the functions
+get_hadith
+display_hadith
+
