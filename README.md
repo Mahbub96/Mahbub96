@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/mahbub96/mahbub96/main/assets/Rainbow.gif" width="100%">
+<img src="https://raw.githubusercontent.com/rakibaakter/rakibaakter/main/assets/Rainbow.gif" width="100%">
 
 <h3 align="center">
   Welcome to Mahbub Alam's profile!
