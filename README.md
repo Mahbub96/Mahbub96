@@ -1,3 +1,24 @@
+<img src="https://raw.githubusercontent.com/mahbub96/mahbub96/main/assets/Rainbow.gif" width="100%">
+
+<h3 align="center">
+  Welcome to Mahbub Alam's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  
+</h3>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mahbub96" alt="Mahbub Alam" /></p>
+
+<h3 align="center">
+  
+[![Linkedin Badge](https://img.shields.io/badge/-Mahbub_Alam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mahbubcse96/)](https://www.linkedin.com/in/mahbubcse96/)
+[![MAIL Badge](https://img.shields.io/badge/-mahbubcse96@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mahbubcse96@gmail.com)](mailto:mahbubcse96@gmail.com)
+
+</h3>
+  
+<img src="https://raw.githubusercontent.com/rakibaakter/rakibaakter/main/assets/Rainbow.gif" width="100%">
+
+
+
 <!---
 - 👋 Hi, I’m @Mahbub96
 - 👀 I’m interested in Data Science,Full Stack Web Development and also Android app development
