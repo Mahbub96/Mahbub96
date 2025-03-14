@@ -12,11 +12,19 @@
   
 [![Linkedin Badge](https://img.shields.io/badge/-Mahbub_Alam-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mahbubcse96/)](https://www.linkedin.com/in/mahbubcse96/)
 [![MAIL Badge](https://img.shields.io/badge/-mahbubcse96@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mahbubcse96@gmail.com)](mailto:mahbubcse96@gmail.com)
+[![Portfolio Badge](https://img.shields.io/badge/🌐_Portfolio-6e40ff?style=flat-square&logo=web&logoColor=white&link=https://mahbub.dev)](https://mahbub.dev)
 
 </h3>
   
 <img src="https://raw.githubusercontent.com/rakibaakter/rakibaakter/main/assets/Rainbow.gif" width="100%">
 
+<h3 align="center">
+  
+[![Portfolio Badge](https://img.shields.io/badge/🌐_Portfolio-6e40ff?style=flat-square&logo=web&logoColor=white&link=https://mahbub.dev)](https://mahbub.dev)
+[![Linkedin Badge](https://img.shields.io/badge/-Mahbub_Alam-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mahbubcse96/)](https://www.linkedin.com/in/mahbubcse96/)
+[![MAIL Badge](https://img.shields.io/badge/-mahbubcse96@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mahbubcse96@gmail.com)](mailto:mahbubcse96@gmail.com)
+
+</h3>
 
 
 <!---
