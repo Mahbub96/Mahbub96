@@ -1,160 +1,91 @@
-<h1 align="center">Md Mahbub Alam</h1>
-
 <p align="center">
-  <b>Backend & Platform Engineer</b> • Cloud & DevSecOps • Intelligent Systems
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=250&section=header&text=Md%20Mahbub%20Alam&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=1a1b26" />
 </p>
 
 <p align="center">
-  Building scalable platforms, distributed systems, and AI-powered production solutions.
+  <a href="https://mahbub.dev"><img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=7aa2f7"/></a>
+  <a href="https://linkedin.com/in/mahbubcse96"><img src="https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=7aa2f7"/></a>
+  <a href="mailto:mahbubcse96@gmail.com"><img src="https://img.shields.io/badge/-Gmail-black?style=for-the-badge&logo=gmail&logoColor=7aa2f7"/></a>
 </p>
 
 <p align="center">
-  <a href="https://mahbub.dev">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/mahbubcse96">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:mahbubcse96@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Mahbub96&style=for-the-badge&color=blueviolet"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=Backend+%26+Platform+Engineer+II;Cloud-Native+%26+Intelligent+Systems;AI-Powered+Production+Solutions" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Brotecs-Technologies%20Ltd.-1a1b26?style=flat-square&logo=workplace&logoColor=7aa2f7">
+  <img src="https://img.shields.io/badge/Dhaka-Bangladesh-1a1b26?style=flat-square&logo=googlemaps&logoColor=7aa2f7">
+  <img src="https://img.shields.io/badge/B.Sc.-CSE%20(3.70%20GPA)-1a1b26?style=flat-square&logo=read-the-docs&logoColor=7aa2f7">
 </p>
 
 ---
 
-# 🚀 ENGINEERING PROFILE
+### 🛠️ THE TECHNOLOGY STACK
 
-<table width="100%">
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,ts,js,python,fastapi,express,postgres,mysql,mongodb,docker,kubernetes,aws,linux,tensorflow,opencv,git&theme=dark" />
+</p>
+
+<table align="center" style="border: none;">
   <tr>
-    <td width="50%" valign="top">
-      <h3>👨‍💻 About Me</h3>
-      <ul>
-        <li>💼 <b>Junior Software Engineer II</b> @ Brotecs Technologies Ltd.</li>
-        <li>⚙️ Focus: <b>Backend • APIs • Microservices</b></li>
-        <li>☁️ Enthusiast: <b>Cloud Infrastructure & DevSecOps</b></li>
-        <li>🤖 Expertise: <b>Machine Learning & Computer Vision</b></li>
-        <li>🧠 Research: <b>Speech Emotion Recognition (Bangla)</b></li>
-        <li>🎯 Mission: <b>Production-scale intelligent systems</b></li>
-      </ul>
+    <td width="50%" valign="top" style="border: none;">
+      <h4 align="center">⚙️ Core Engineering</h4>
+      <p align="center">
+      <img src="https://img.shields.io/badge/Architecture-Microservices-7aa2f7?style=flat-square" /><br>
+      <img src="https://img.shields.io/badge/Cloud-Docker%20%7C%20K8s-7aa2f7?style=flat-square" /><br>
+      <img src="https://img.shields.io/badge/Database-Postgres%20%7C%20NoSQL-7aa2f7?style=flat-square" />
+      </p>
     </td>
-    <td width="50%" valign="top">
-      <h3>⚡ What I Build</h3>
-      <ul>
-        <li>🚀 <b>Distributed</b> backend systems</li>
-        <li>☁️ <b>Cloud-native</b> platforms & CI/CD</li>
-        <li>🔐 Secure <b>Authentication & RBAC</b></li>
-        <li>🤖 <b>AI-powered</b> automation tools</li>
-        <li>📈 High-performance <b>REST/gRPC</b> services</li>
-        <li>🧩 <b>Developer Experience</b> (DevEx) tooling</li>
-      </ul>
+    <td width="50%" valign="top" style="border: none;">
+      <h4 align="center">🧠 AI & Research</h4>
+      <p align="center">
+      <img src="https://img.shields.io/badge/Vision-YOLO%20%7C%20FaceNet-bb9af7?style=flat-square" /><br>
+      <img src="https://img.shields.io/badge/Signal-Speech%20Recognition-bb9af7?style=flat-square" /><br>
+      <img src="https://img.shields.io/badge/Logic-Deep%20Learning-bb9af7?style=flat-square" />
+      </p>
     </td>
   </tr>
 </table>
 
 ---
 
-# 🧠 CORE EXPERTISE
+### 🏆 FLAGSHIP PRODUCTIONS
 
-<p align="center">
-  <b>Backend & Platform</b><br>
-  <img src="https://skillicons.dev/icons?i=nodejs,ts,js,express,fastapi" /><br><br>
-  <b>Cloud & DevSecOps</b><br>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux,git" /><br><br>
-  <b>Databases & Storage</b><br>
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,firebase" /><br><br>
-  <b>AI & Intelligent Systems</b><br>
-  <img src="https://skillicons.dev/icons?i=tensorflow,opencv,python" />
-</p>
+> [!TIP]
+> **Cloud VoIP Ecosystem**
+> *Engineered high-concurrency real-time communication backends with integrated CI/CD pipelines.*
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Microservices-Architecture-FF5722?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Distributed-Systems-2196F3?style=flat-square"/>
-  <img src="https://img.shields.io/badge/System-Design-9C27B0?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Performance-Optimization-F44336?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Secure-RBAC-4CAF50?style=flat-square"/>
-</p>
+> [!IMPORTANT]
+> **Intelligent Surveillance**
+> *Edge-AI deployment combining YOLOv26 detection and FaceNet identity verification.*
 
 ---
 
-# 🛠 TECHNOLOGY STACK
-
-<table width="100%">
-  <tr>
-    <td width="33%" valign="top">
-      <h3>💻 Languages</h3>
-      <ul>
-        <li>TypeScript / JS</li>
-        <li>Python</li>
-        <li>PHP</li>
-        <li>Java / C / C++</li>
-      </ul>
-    </td>
-    <td width="33%" valign="top">
-      <h3>🧩 Frameworks</h3>
-      <ul>
-        <li>Node.js / Express</li>
-        <li>FastAPI</li>
-        <li>React / Next.js</li>
-        <li>Tailwind CSS</li>
-      </ul>
-    </td>
-    <td width="33%" valign="top">
-      <h3>☁️ Infrastructure</h3>
-      <ul>
-        <li>Docker / K8s</li>
-        <li>AWS (EC2, S3, RDS)</li>
-        <li>CI/CD Pipelines</li>
-        <li>PostgreSQL / NoSQL</li>
-      </ul>
-    </td>
-  </tr>
-</table>
-
----
-
-# 🚀 FEATURED PROJECTS
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| ☁️ **Cloud VoIP Platform** | Scalable real-time communication backend with CI/CD. | Node.js, Docker, AWS |
-| 🎥 **AI Surveillance** | YOLOv8/v26 detection + FaceNet recognition engine. | Python, OpenCV, FastAPI |
-| ⚡ **IoT Management** | Distributed device monitoring and command platform. | Node.js, MQTT, MongoDB |
-| 🎙 **Speech Analysis** | Deep learning model for Bangla Speech Emotion Recognition. | TensorFlow, Librosa |
-| 🏥 **Healthcare Hub** | Secure multi-tenant system with RBAC & Payment Gateways. | MERN, Stripe |
-
----
-
-# 📊 GITHUB DASHBOARD
+### 📊 ANALYTICS HUB
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Mahbub96&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Mahbub96&theme=tokyonight&hide_border=true" />
+  <img height="185" src="https://github-readme-stats.vercel.app/api?username=Mahbub96&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&custom_title=Engineering+Metrics" />
+  <img height="185" src="https://github-readme-streak-stats.herokuapp.com/?user=Mahbub96&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahbub96&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mahbub96&theme=tokyo-night&hide_border=true&area=true&color=7aa2f7" width="100%" />
 </p>
 
 ---
 
-# 🎓 EDUCATION & FOCUS
-
-* 🎓 **B.Sc. in Computer Science & Engineering**
-    * Stamford University Bangladesh
-* 🌱 **Currently Mastering:**
-    * `Platform Engineering` • `Cloud-Native Architectures` • `Advanced DevSecOps`
-
----
-
-# 🎸 BEYOND THE CODE
+### 🌱 CONTINUOUS EVOLUTION
 
 <p align="center">
-  <b>Music & Guitar</b> • <b>Continuous Learning</b> • <b>Problem Solving</b>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=7AA2F7&center=true&vCenter=true&width=500&lines=$+learn+--topic+Platform-Engineering;$+dev+--focus+Scalability;$+status+--current+Active" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Mahbub96/Mahbub96/main/footer.png" onerror="this.style.display='none'" />
-  <br>
-  ⭐ <b>Md Mahbub Alam</b>
+  <img src="https://img.shields.io/badge/Guitarist-🎸-7aa2f7?style=for-the-badge&labelColor=1a1b26" /> 
+  <img src="https://img.shields.io/badge/Problem%20Solver-🧠-7aa2f7?style=for-the-badge&labelColor=1a1b26" /> 
+  <img src="https://img.shields.io/badge/Innovator-📚-7aa2f7?style=for-the-badge&labelColor=1a1b26" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7aa2f7&height=120&section=footer&text=Innovating+at+the+Edge&fontSize=20&fontAlignY=70" />
 </p>
