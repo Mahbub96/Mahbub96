@@ -141,7 +141,7 @@
 # 🎓 EDUCATION & FOCUS
 
 * 🎓 **B.Sc. in Computer Science & Engineering**
-    * Stamford University Bangladesh — **CGPA 3.70 / 4.00**
+    * Stamford University Bangladesh
 * 🌱 **Currently Mastering:**
     * `Platform Engineering` • `Cloud-Native Architectures` • `Advanced DevSecOps`
 
